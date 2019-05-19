@@ -1,7 +1,7 @@
 {
   "name": "extract-values-loader",
   "version": "0.0.1",
-  "description": "",
+  "description": "Webpack loader to extract values from modules",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
