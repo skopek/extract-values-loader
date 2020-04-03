@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "jest": "^24.9.0",
-    "pify": "^4.0.1",
+    "pify": "^5.0.0",
     "webpack": "^4.31.0"
   },
   "jest": {
